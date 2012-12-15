@@ -2,6 +2,7 @@ length-estimation-pygame
 ========================
 
 PyGame code for a length estimation game. 6.804J Project. 
+Go to: Project/Game in this directory for the final project code, data, images and writeup. 
 
 Requirements: pygame library 
 
