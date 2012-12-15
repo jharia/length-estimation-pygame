@@ -1,7 +1,7 @@
 length-estimation-pygame
 ========================
 
-PyGame code for a length estimation game.
+PyGame code for a length estimation game. 6.804J Project. 
 
 Requirements: pygame library 
 
